@@ -18,6 +18,9 @@ I am a software developer transitioning into the world of Data Science. I am pas
 - **Libraries:** Pandas, NumPy, Scikit-learn, NLTK, Matplotlib.
 - **Data Engineering:** Relational/Dimensional Modeling, ETL Pipelines, SQLite3.
 - **Statistics:** ANOVA, Regression Analysis, Experimental Design.
+- **NLP:** NLTK, VADER Sentiment Analysis
+- **Modeling:** LDA (Latent Dirichlet Allocation) Topic Modeling
+- **Tools:** PRAW (Reddit API), python-dotenv
 
 ### 📝 Featured Research & Projects
 - **IoT Smart Farming:** A technical evaluation on optimizing irrigation using soil moisture sensors and predictive analytics.
